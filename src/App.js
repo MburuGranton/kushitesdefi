@@ -41,7 +41,7 @@ function App() {
                 Elevate Your Assets by Swaping, Staking, and Borrowing with
                 </h1>
                 <p className="mt-6 text-lg leading-8 text-gray-600">
-                  Ekeza built on{" "}
+                  Kushite DeFi built on{" "}
                   <a
                     href="https://icp.org"
                     rel="noopener noreferrer"
