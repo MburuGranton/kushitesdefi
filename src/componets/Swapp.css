@@ -1,0 +1,12 @@
+/* Add any additional styling here, such as: */
+.input-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.exchange-icon {
+  font-size: 1.5rem;
+}
+
+
